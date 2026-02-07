@@ -1,5 +1,3 @@
-以下のREADME.mdファイルを作成しました。
-
 ```markdown
 # Dobot CR3A - Modbus TCP カメラ制御システム
 
@@ -443,5 +441,3 @@ Dr. Seong-Hun Choe (CTO)
 - [ ] GUI監視ツールの追加
 - [ ] 複数Dobot対応
 ```
-
-このREADME.mdファイルをプロジェクトフォルダに保存してください。システムの概要、使用方法、トラブルシューティングまで網羅しています。
