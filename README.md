@@ -1,4 +1,4 @@
-```markdown
+
 # Dobot CR3A - Modbus TCP カメラ制御システム
 
 ## 📋 概要
